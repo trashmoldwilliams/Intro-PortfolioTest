@@ -1,0 +1,16 @@
+h2.intro {
+font-family: helvetica
+}
+
+p.intro {
+font-style: italic;
+}
+
+img.intro {
+  width: 30%;
+  height: 30%;
+}
+
+div.intro {
+  font-weight: bold;
+}

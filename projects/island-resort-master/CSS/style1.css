@@ -1,0 +1,14 @@
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: aqua;
+}
+
+p {
+  color: aqua;
+  font-family: sans-serif;
+}
+
+li {
+  line-height: 2;
+}
