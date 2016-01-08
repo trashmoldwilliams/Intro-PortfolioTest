@@ -24,6 +24,11 @@ p {
   font-family: sans-serif;
 }
 
+.pidgeon {
+  width: 800px;
+  margin: auto;
+}
+
 .repo-link {
   color: #339933;
 }
