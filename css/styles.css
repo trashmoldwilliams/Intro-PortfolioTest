@@ -1,9 +1,13 @@
-.repo-link {
-  color: #339933;
+.footer {
+  border-top: 1px solid grey;
 }
 
 p {
   text-indent: 10px;
   font-size: 17px;
   font-family: sans-serif;
+}
+
+.repo-link {
+  color: #339933;
 }
