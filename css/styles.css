@@ -14,6 +14,10 @@ body {
   border-top: 1px solid grey;
 }
 
+.navbar {
+  background-color: #99ccff;
+}
+
 p {
   text-indent: 10px;
   font-size: 17px;
