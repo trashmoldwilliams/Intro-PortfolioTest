@@ -7,7 +7,10 @@ body {
 }
 
 .col-sm-4 {
+  padding: 5px;
   margin-bottom: 1%;
+  border: 0px;
+  margin: 5pxpx;
 }
 
 .footer {
@@ -16,6 +19,11 @@ body {
 
 .navbar {
   background-color: #99ccff;
+}
+
+ol {
+  font-size: 17px;
+  font-family: sans-serif;
 }
 
 p {
