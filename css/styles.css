@@ -24,8 +24,13 @@ body {
   border-radius: 10px;
 }
 
-.navbar {
+.navbar-default {
   background-color: #99ccff;
+}
+
+.collapsed {
+  background-color: #ff9900;
+  border-radius: 10px;
 }
 
 ol {
