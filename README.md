@@ -2,6 +2,6 @@
 
 A site describing a bit about myself, as well as containing my various projects from my Intro to Programming class at Epicodus.
 
-To see the site, go to this link:
+To see the site, go to this link: http://trashmoldwilliams.github.io/repository
 
 Copyright (c) Will Johnson | HTML and CSS
