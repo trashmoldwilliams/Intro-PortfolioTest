@@ -10,11 +10,18 @@ body {
   padding: 5px;
   margin-bottom: 1%;
   border: 0px;
-  margin: 5pxpx;
+  margin: 0px;
 }
 
 .footer {
   border-top: 1px solid grey;
+}
+
+.half-life {
+  width: 70%;
+  float: right;
+  margin: 5px;
+  border-radius: 10px;
 }
 
 .navbar {
